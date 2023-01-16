@@ -18,7 +18,9 @@ To get started with the application, you will need to have Node.js and npm (Node
 
 `yarn start`
 
-This will start the development server and open the application in your default browser.
+4. Open your default browser;
+
+`http://localhost:3000`
 
 ## Features
 
