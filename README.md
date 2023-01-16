@@ -26,3 +26,4 @@ This will start the development server and open the application in your default 
 - Search for product items
 - Shopping cart with products list in which you can add/remove items
 - Checkout button that prints a pdf receipt with products and price
+- Unit test for components
